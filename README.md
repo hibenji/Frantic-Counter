@@ -1,5 +1,6 @@
-# frantic.benji.link
+# Frantic Counter
 
+https://frantic.benji.link
 
 ## What is this?
 
