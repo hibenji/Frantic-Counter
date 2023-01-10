@@ -17,3 +17,7 @@ Just input the names of the players and the scores. The table will automatically
 ## Screenshot
 
 ![Screenshot](screenshot.png)
+
+
+### Coding time
+This Project was coded in 48 Minutes
